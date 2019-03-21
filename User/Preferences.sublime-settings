@@ -1,0 +1,26 @@
+{
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Fira Code Retina",
+	"font_size": 11,
+	"highlight_line": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"theme": "ayu-mirage.sublime-theme",
+	"caret_extra_bottom": 0,
+	"caret_extra_top": 0,
+	"caret_extra_width": 1,
+}
